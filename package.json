@@ -1,0 +1,17 @@
+{
+  "name": "node-mail",
+  "version": "0.0.1",
+  "description": "Node-maildemo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SGL",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.2",
+    "node-mailer": "^0.1.1",
+    "nodemon": "^2.0.19"
+  }
+}
